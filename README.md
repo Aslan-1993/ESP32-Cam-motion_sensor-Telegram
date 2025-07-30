@@ -1,2 +1,2 @@
 # ESP32-Cam-motion_sensor-Telegram
-Controlling ESP32 using the Telegram app (bot) remotely.
+Remote Control and Video Streaming via ESP32-CAM using Telegram Bot.
