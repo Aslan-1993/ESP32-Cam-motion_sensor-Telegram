@@ -1,7 +1,6 @@
 # 📷 Remote Control and Video Streaming via ESP32-CAM using Telegram Bot
 
-It is recommended to read the PDF: Remote Control and Video Streaming via ESP32-CAM using Telegram Bot
-more detailed
+"""It is recommended to read the PDF it's more detailed: Remote Control and Video Streaming via ESP32-CAM using Telegram Bot"""
 
 ## 🔧 Project Overview
 A smart remote surveillance system based on the **ESP32-CAM**, controllable through a **Telegram Bot**, capable of:
